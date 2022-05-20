@@ -9,3 +9,14 @@
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from Sport, Photography and Photoshop..
 
 📚 I also love reading books on personal development & financial literacy.
+
+
+
+🛠️ Skills
+
+
+Languages
+Java Javascript Python 
+
+Front-End Development
+html css sass bootstrap jquery
