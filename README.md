@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar AMRI</h1>
 <h3 align="center">A passionate WEB developer, I am Engineering student at the Private School of Engineering and Technology - ESPRIT. I am quite ambitious when it comes to discovering new technologies and new skills..</h3>
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/NOYF3f82b_gAAAAS/programmer.gif">
 
 - 🔭 I’m currently working on [FullStack Project(Angular/Spring)](https://github.com/amriOmaar/SpringBootProject.git)
 
