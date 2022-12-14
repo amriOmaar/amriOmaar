@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋, I'm OMAR.</h1>
 <h3 align="center">A passionate WEB Developer, I am Engineering student at ESPRIT. I am quite ambitious when it comes to discovering new technologies and new skills..</h3>
-<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yjjqnuy46q01bx8ztxfgcelv7feee3d08tupp900&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="320" src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 - 🔭 I’m currently working on [FullStack Project(Angular/Spring)](https://github.com/amriOmaar/SpringBootProject.git)
 
