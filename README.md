@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **ANGULAR, SPRING BOOT, SYMFONY**
 
-- 📫 How to reach me **amri.omar@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
