@@ -6,7 +6,7 @@
 
 - - 🔭 Last month I have worked on [FullStack Project(Angular/Spring)](https://github.com/amriOmaar/Angular-Kaddem-Project-S1.git)
 
-- 🌱 I’m currently learning ** DOCKER and CYBESECURITY**
+- 🌱 I’m currently learning ** DOCKER and CYBERSECURITY**
 
 - 💬 Ask me about **ANGULAR, SPRING BOOT, SYMFONY, REACT, NODE**
 
