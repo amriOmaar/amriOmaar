@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yjjqnuy46q01bx8ztxfgcelv7feee3d08tupp900&rid=giphy.gif&ct=g" />
 
-- 🔭 Expert dans les technologies **Angular, React, Node.js, Express, MongoDB** et la conception d’applications web performantes et scalables.
+- 🔭 Compétent dans les technologies Angular, React, Node.js, Express, MongoDB, avec une bonne expérience dans la conception d’applications web performantes et évolutives.
 
-- 🌱 Actuellement en formation avancée sur **Docker** et **Cybersécurité**, afin de renforcer mes compétences DevOps et garantir des applications sécurisées.
+- 🌱 Actuellement en formation avancée sur **Docker**, afin de renforcer mes compétences DevOps et garantir des applications sécurisées.
 
 - 💡 Je suis passionné par l’apprentissage continu et la maîtrise des frameworks modernes, avec une forte appétence pour l’architecture backend robuste et les interfaces utilisateur intuitives.
 
