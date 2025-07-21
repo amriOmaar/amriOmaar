@@ -37,7 +37,7 @@
 
 - Contribuer à des équipes où la qualité, la créativité et l’efficacité sont valorisées.
 
-- Continuer à progresser dans les domaines du développement web, DevOps et sécurité.
+- Continuer à progresser dans les domaines du développement web et DevOps.
 
 ---
 
