@@ -1,16 +1,51 @@
-<h1 align="center">Hello WORLD 👋, I'm OMAR AMRI.</h1>
-<h3 align="center">A passionate WEB Developer. I am quite ambitious when it comes to discovering new technologies and new skills..</h3>
-<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yjjqnuy46q01bx8ztxfgcelv7feee3d08tupp900&rid=giphy.gif&ct=g">
+<h1 align="center">Salut, je suis Omar Amri 👋</h1>
 
-- 🔭 Since February I have been working on [MERN STACK Project(REACT/NODE/EXPRESS/MONGODB)](https://github.com/pethub-org/pethub-esprit.git)
+<h3 align="center">
+  Développeur Web Full-Stack passionné et curieux, toujours prêt à relever de nouveaux défis techniques.
+</h3>
 
-- 🔭 Last month I have worked on [FullStack Project(Angular/Spring)](https://github.com/amriOmaar/Angular-Kaddem-Project-S1.git)
+<img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yjjqnuy46q01bx8ztxfgcelv7feee3d08tupp900&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning ** DOCKER and CYBERSECURITY**
+- 🔭 Expert dans les technologies **Angular, React, Node.js, Express, MongoDB** et la conception d’applications web performantes et scalables.
 
-- 💬 Ask me about **ANGULAR, SPRING BOOT, SYMFONY, REACT, NODE**
+- 🌱 Actuellement en formation avancée sur **Docker** et **Cybersécurité**, afin de renforcer mes compétences DevOps et garantir des applications sécurisées.
 
+- 💡 Je suis passionné par l’apprentissage continu et la maîtrise des frameworks modernes, avec une forte appétence pour l’architecture backend robuste et les interfaces utilisateur intuitives.
 
+- 🤝 Je privilégie la qualité du code, la collaboration en équipe agile et l’adoption des meilleures pratiques de développement.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+<h3>🛠️ Compétences techniques clés</h3>
+<p>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
+  <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+</p>
+
+---
+
+<h3>🚀 Ce que je recherche</h3>
+
+- Collaborer sur des projets innovants qui challengent mes compétences techniques.
+
+- Contribuer à des équipes où la qualité, la créativité et l’efficacité sont valorisées.
+
+- Continuer à progresser dans les domaines du développement web, DevOps et sécurité.
+
+---
+
+<h3>📫 Contactez-moi</h3>
+
+Je suis ouvert aux échanges, collaborations ou opportunités professionnelles.  
+N’hésitez pas à me contacter pour discuter !
+
+---
+
