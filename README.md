@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="320" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yjjqnuy46q01bx8ztxfgcelv7feee3d08tupp900&rid=giphy.gif&ct=g" />
 
-- 🔭 Compétent dans les technologies Angular, React, Node.js, Express, MongoDB, avec une bonne expérience dans la conception d’applications web performantes et évolutives.
+- 🔭 Compétent dans les technologies Angular, Next.js, Node.js, Express, MongoDB, avec une bonne expérience dans la conception d’applications web performantes et évolutives.
 
 - 🌱 Actuellement en formation avancée sur **Docker**, afin de renforcer mes compétences DevOps et garantir des applications sécurisées.
 
@@ -19,7 +19,7 @@
 <h3>🛠️ Compétences techniques clés</h3>
 <p>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
